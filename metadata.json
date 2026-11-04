@@ -1,0 +1,6 @@
+{
+  "name": "Solstice — Time-Adaptive Android Live Wallpaper",
+  "description": "Interactive Android live wallpaper engine and studio that evolves in real time across dawn, bright morning, sunny afternoon, golden dusk, and starry night with dynamic biomes, wildlife, weather, and Material You adaptive theming.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
